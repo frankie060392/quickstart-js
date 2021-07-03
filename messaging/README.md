@@ -107,3 +107,10 @@ License
 -------
 
 © Google, 2016. Licensed under an [Apache-2](../LICENSE) license.
+
+
+cd messaging
+npm install
+npm start
+
+
